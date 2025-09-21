@@ -52,17 +52,21 @@ public class Exercises {
             }
             i1++;
         }
-        System.out.println();
-
+        System.out.println(); //// missing output answer
+//// missing #11
+//// missing #12
+        
         // 13 output
         double m2=92.801;
         int j2=0;
         do{
             j2=j2+2;
-            if(j2>-100)continue;
+            if(j2>-100)continue; 
             m2+=3;
         }while(j2<6);
         System.out.println("13 m2="+m2);
+//// missing output answer
+
 
         // 14 do-while user input
         Scanner sc=new Scanner(System.in);
@@ -75,3 +79,6 @@ public class Exercises {
         sc.close();
     }
 }
+
+
+//// missing MCQ #1-5
