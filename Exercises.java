@@ -44,6 +44,8 @@ public class Exercises {
             i--;
         }while(!done);
 
+        //// missing 7,8,9
+
         // 10 nested loop
         int i1=0,j1;
         while(i1<=3){
@@ -53,6 +55,8 @@ public class Exercises {
             i1++;
         }
         System.out.println();
+
+        //// missing 11,12
 
         // 13 output
         double m2=92.801;
